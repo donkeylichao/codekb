@@ -1,0 +1,6 @@
+/bin/
+/codekb
+/.codekb/
+.DS_Store
+coverage.out
+/docs
